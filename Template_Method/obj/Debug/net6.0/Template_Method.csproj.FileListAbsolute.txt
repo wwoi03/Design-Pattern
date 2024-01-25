@@ -1,0 +1,15 @@
+C:\Huflit_Study_Material\Project\do-it-yourself-project\Design-Pattern\Template_Method\bin\Debug\net6.0\Template_Method.exe
+C:\Huflit_Study_Material\Project\do-it-yourself-project\Design-Pattern\Template_Method\bin\Debug\net6.0\Template_Method.deps.json
+C:\Huflit_Study_Material\Project\do-it-yourself-project\Design-Pattern\Template_Method\bin\Debug\net6.0\Template_Method.runtimeconfig.json
+C:\Huflit_Study_Material\Project\do-it-yourself-project\Design-Pattern\Template_Method\bin\Debug\net6.0\Template_Method.dll
+C:\Huflit_Study_Material\Project\do-it-yourself-project\Design-Pattern\Template_Method\bin\Debug\net6.0\Template_Method.pdb
+C:\Huflit_Study_Material\Project\do-it-yourself-project\Design-Pattern\Template_Method\obj\Debug\net6.0\Template_Method.csproj.AssemblyReference.cache
+C:\Huflit_Study_Material\Project\do-it-yourself-project\Design-Pattern\Template_Method\obj\Debug\net6.0\Template_Method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Huflit_Study_Material\Project\do-it-yourself-project\Design-Pattern\Template_Method\obj\Debug\net6.0\Template_Method.AssemblyInfoInputs.cache
+C:\Huflit_Study_Material\Project\do-it-yourself-project\Design-Pattern\Template_Method\obj\Debug\net6.0\Template_Method.AssemblyInfo.cs
+C:\Huflit_Study_Material\Project\do-it-yourself-project\Design-Pattern\Template_Method\obj\Debug\net6.0\Template_Method.csproj.CoreCompileInputs.cache
+C:\Huflit_Study_Material\Project\do-it-yourself-project\Design-Pattern\Template_Method\obj\Debug\net6.0\Template_Method.dll
+C:\Huflit_Study_Material\Project\do-it-yourself-project\Design-Pattern\Template_Method\obj\Debug\net6.0\refint\Template_Method.dll
+C:\Huflit_Study_Material\Project\do-it-yourself-project\Design-Pattern\Template_Method\obj\Debug\net6.0\Template_Method.pdb
+C:\Huflit_Study_Material\Project\do-it-yourself-project\Design-Pattern\Template_Method\obj\Debug\net6.0\Template_Method.genruntimeconfig.cache
+C:\Huflit_Study_Material\Project\do-it-yourself-project\Design-Pattern\Template_Method\obj\Debug\net6.0\ref\Template_Method.dll
